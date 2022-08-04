@@ -1,0 +1,8 @@
+{
+  "name": "Inventory",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "9ab0f015"
+}
